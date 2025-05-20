@@ -1,3 +1,6 @@
+# CAUTION
+# Uses for testing purpose only
+
 # GitHub Help commands
 
 echo "# model2" >> README.md
